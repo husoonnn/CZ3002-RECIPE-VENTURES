@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325279034949",
+    "project_id": "recipe-ventures",
+    "storage_bucket": "recipe-ventures.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325279034949:android:82713429ad979cda6f3d2c",
+        "android_client_info": {
+          "package_name": "orange.recipe_ventures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325279034949-u6dietngjrfnsgo150rdv515p124a7b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "orange.recipe_ventures",
+            "certificate_hash": "24f90b260630b9813af29d025fe578fbc2f1335c"
+          }
+        },
+        {
+          "client_id": "325279034949-gh3irc7o09nkbhs1vq6b9taj7i0op7td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nSI8Rs4LCINPCyz27jWVF-UyEYrXMyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325279034949-gh3irc7o09nkbhs1vq6b9taj7i0op7td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

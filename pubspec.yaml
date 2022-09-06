@@ -1,0 +1,47 @@
+name: recipe_ventures
+description: A new Flutter application.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+        
+  focused_menu: ^1.0.5
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.0.1
+  firebase_auth: ^1.0.1
+  cloud_firestore: ^1.0.1
+  provider: ^4.3.1
+  intl: ^0.17.0
+  http: ^0.13.3
+  image_picker: ^0.8.4
+  flutter_phoenix: ^1.0.0
+  flutter_spinkit: ^4.1.2
+  font_awesome_flutter: ^8.10.0
+  google_sign_in: ^5.0.5
+  flutter_rating_bar: ^4.0.0
+  html: ^0.14.0+3
+  open_mail_app: ^0.3.0
+  tflite: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  floor_generator: any
+  build_runner: any
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/burger.png
+    - assets/images/Recipe Ventures.png
+    - assets/model.tflite
+    - assets/labels.txt
+
+
